@@ -1,8 +1,11 @@
 # Welcome United Imaging MR ADEPT Forge! 👋
 
-![workflow](adept.png)
+![adept](adept.png)
 
 ## 🚀 Introduction
+
+**uMR ADEPT**(Application Development Environment and Programming Tools) platform is designed for effective MR sequence and reconstruction development. 
+Sequence demo written using Pulseq and some other open-source tools coming from United Imaging MR team will be released here.
 
 Website: https://adept-forge.github.io/
 
