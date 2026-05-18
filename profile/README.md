@@ -1,6 +1,6 @@
 # Welcome United Imaging MR ADEPT Forge! 👋
 
-<img src="images/adept.png" alt="adept.png" width="400">
+<img src="adept.png" alt="adept.png" width="400">
 
 ## 🚀 Introduction
 
