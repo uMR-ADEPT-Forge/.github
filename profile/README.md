@@ -1,4 +1,4 @@
-# Welcome United Imaging MR ADEPT Forge! 👋
+# Welcome to United Imaging MR ADEPT Forge! 👋
 
 ![adept](adept.png)
 
